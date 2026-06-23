@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0303-range-sum-query-immutable) |
+| [0496-next-greater-element-i](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0682-baseball-game) |
 | [0973-k-closest-points-to-origin](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1480-running-sum-of-1d-array](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/1480-running-sum-of-1d-array) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0496-next-greater-element-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0682-baseball-game) |
 ## Queue
 |  |
@@ -108,4 +111,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0682-baseball-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

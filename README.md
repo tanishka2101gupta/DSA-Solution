@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0303-range-sum-query-immutable) |
+| [0682-baseball-game](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0682-baseball-game) |
 | [0973-k-closest-points-to-origin](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1480-running-sum-of-1d-array](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/1833-maximum-ice-cream-bars) |
@@ -98,8 +99,13 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0225-implement-stack-using-queues) |
+| [0682-baseball-game](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0682-baseball-game) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0225-implement-stack-using-queues) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->

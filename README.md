@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0973-k-closest-points-to-origin) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Divide and Conquer
 |  |
 | ------- |

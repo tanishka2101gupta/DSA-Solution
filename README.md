@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0303-range-sum-query-immutable](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0973-k-closest-points-to-origin](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0973-k-closest-points-to-origin) |
@@ -84,4 +85,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->

@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
@@ -95,6 +96,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0303-range-sum-query-immutable) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -123,4 +125,20 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0496-next-greater-element-i) |
+## Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->

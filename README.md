@@ -41,6 +41,7 @@
 | [0075-sort-colors](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0225-implement-stack-using-queues](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0844-backspace-string-compare) |
 ## Queue
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -152,4 +155,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->

@@ -19,6 +19,7 @@
 | [0347-top-k-frequent-elements](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0860-lemonade-change) |
 | [0973-k-closest-points-to-origin](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0973-k-closest-points-to-origin) |
@@ -55,6 +56,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/1833-maximum-ice-cream-bars) |
@@ -99,6 +101,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |

@@ -17,6 +17,7 @@
 | [0283-move-zeroes](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0860-lemonade-change) |
@@ -44,6 +45,7 @@
 | [0075-sort-colors](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
@@ -52,6 +54,7 @@
 | [0169-majority-element](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0455-assign-cookies) |
 | [0973-k-closest-points-to-origin](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/1833-maximum-ice-cream-bars) |
@@ -64,6 +67,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0649-dota2-senate) |
 | [0860-lemonade-change](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/1833-maximum-ice-cream-bars) |

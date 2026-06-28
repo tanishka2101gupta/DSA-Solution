@@ -64,6 +64,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0649-dota2-senate) |
 | [0860-lemonade-change](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0225-implement-stack-using-queues) |
+| [0649-dota2-senate](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0649-dota2-senate) |
 ## Simulation
 |  |
 | ------- |
@@ -162,6 +164,7 @@
 ## String
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0649-dota2-senate) |
 | [0844-backspace-string-compare](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0844-backspace-string-compare) |
 ## Union-Find
 |  |

@@ -26,6 +26,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [0649-dota2-senate](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0649-dota2-senate) |
 | [0860-lemonade-change](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting Sort
 |  |
 | ------- |

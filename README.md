@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0455-assign-cookies) |
@@ -47,6 +48,7 @@
 | [0075-sort-colors](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0844-backspace-string-compare) |
 ## Sorting
@@ -68,6 +70,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -180,4 +183,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

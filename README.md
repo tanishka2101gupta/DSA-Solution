@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -186,5 +187,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

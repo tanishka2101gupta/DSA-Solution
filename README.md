@@ -96,6 +96,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0973-k-closest-points-to-origin) |
@@ -188,5 +189,6 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/tanishka2101gupta/DSA-Solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
